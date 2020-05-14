@@ -1,0 +1,15 @@
+=====Puerto==========
+neststat -aon : Escanea puerto
+taskkill /F /PID xxxxx
+===================
+
+======Verificar JAVA====
+java -version
+javadoc xxx.java
+
+========Compilar Pug===========
+pug  archivo.pug
+pug  -w archivo.pug
+pug  -w --pretty archivo.pug
+Compila HTML indentado
+
